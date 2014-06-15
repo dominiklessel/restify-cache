@@ -54,6 +54,9 @@
 
   // Custom Globals
   "globals"       : {
-    "nconf": true
+    "nconf": true,
+    "describe": true,
+    "it": true,
+    "afterEach": true
   }        // additional predefined global variables
 }
