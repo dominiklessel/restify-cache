@@ -22,11 +22,12 @@
   },
   "homepage": "https://github.com/gergelyke/restify-cache",
   "dependencies": {
-    "redis": "~0.10.0",
-    "hiredis": "~0.1.16"
+    "async": "^0.9.0",
+    "hiredis": "~0.1.16",
+    "redis": "~0.10.0"
   },
   "devDependencies": {
-    "mocha": "~1.17.1",
+    "mocha": "~1.20.1",
     "chai": "~1.9.0"
   }
 }
