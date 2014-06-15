@@ -1,4 +1,7 @@
-/*
+
+'use strict';
+
+/**
  * Export lib
  */
 
